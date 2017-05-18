@@ -1,24 +1,26 @@
 ---
 title: 记录Hexo搭建的全流程和一些小问题
 date: 2017/5/18
-tag: hexo
+category: [hexo]
+tag: [hexo]
 ---
 
 
 
 # 记录Hexo搭建的全流程和一些小问题
 
-## hexo搭建
+Hexo作为当前流行的静态博客搭建程序，网上有太多的教程，本片仅作为个人整理以方便大家查阅
+
+<!--more-->
+
+## hexo环境搭建
 
 > [Node.js](https://nodejs.org/en/)
 >
 > [git](https://git-scm.com/)
 >
 > 确认电脑中已经安装以上两个软件后，使用npm安装hexo
->
-> $ npm install -g hexo-cli
 
-
-
-## hexo的一些命令
-> hexo n "title" 
+```
+$ npm install -g hexo-cli
+```

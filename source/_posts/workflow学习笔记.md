@@ -1,7 +1,8 @@
 ---
 title: workflow学习笔记
 date: 2017/5/16
-tag: workflow
+category: [workflow]
+tag: [workflow]
 ---
 workflow的一些教程链接
 <!--more-->
