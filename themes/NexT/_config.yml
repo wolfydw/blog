@@ -73,10 +73,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
-
-
-
-
+  
 # ---------------------------------------------------------------
 # Scheme Settings
 # ---------------------------------------------------------------
@@ -84,9 +81,9 @@ menu_icons:
 # Schemes
 # scheme: Muse
 
-# scheme: Mist
+scheme: Mist
 
-scheme: Pisces
+# scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -200,8 +197,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  # position: left
+  # position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -326,7 +323,7 @@ han: false
 # Disqus
 
 disqus:
-  enable: ture
+  enable: false
   shortname: wolfydw
   count: false
 
@@ -334,7 +331,7 @@ disqus:
 #hypercomments_id:
 
 # Gentie productKey
-#gentie_productKey:
+gentie_productKey: 579e20a31cf14826879f515825a9b666
 
 # changyan
 changyan:
