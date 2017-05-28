@@ -498,8 +498,8 @@ local_search:
 exturl: false
 
 reward_comment: 支持创作，鼓励分享！
-wechatpay: /path/to/wechat-reward-image
-alipay: /path/to/alipay-reward-image
+wechatpay: /images/wechat-reward-image.png
+alipay: /images/alipay-reward-image.png
 
 #! ---------------------------------------------------------------
 #! DO NOT EDIT THE FOLLOWING SETTINGS
