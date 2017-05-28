@@ -80,9 +80,3 @@ deploy:
   type: git
   repo: https://github.com/wolfydw/wolfydw.github.io.git
   branch: master
-algolia:
-  applicationID: 'ANU67U6VVQ'
-  apiKey: '5831caa56dfd701688250caa539b528a'
-  adminApiKey: '11b7e486723451a05fd54f391b7a68aa'
-  indexName: 'wolfydw'
-  chunkSize: 5000
