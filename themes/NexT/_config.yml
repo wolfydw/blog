@@ -474,18 +474,18 @@ calendar:
 
 # Algolia Search
 algolia_search:
-  enable: false
+  enable: ture
   hits:
     per_page: 10
   labels:
-    input_placeholder: Search for Posts
-    hits_empty: "We didn't find any results for the search: ${query}"
-    hits_stats: "${hits} results found in ${time} ms"
+    input_placeholder: 输入关键字进行搜索
+    hits_empty: "找不到关于“${query}”的文章"
+    hits_stats: "共找到 ${hits} 篇文章，花费时间 ${time} ms"
 
 
 # Local search
 local_search:
-  enable: ture
+  enable: false
   # if auto, trigger search by changing input
   # if manual, trigger search by pressing enter key or search button
   trigger: auto
