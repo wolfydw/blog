@@ -1,8 +1,12 @@
 ---
 title: Hexo-NexT开启Disqus评论系统
-data: 2017/5/19
-category: [hexo]
-tag: [hexo]
+data: 2017-05-19
+updated: 
+comments: ture
+category:
+- hexo
+tag:
+- hexo
 ---
 
 
