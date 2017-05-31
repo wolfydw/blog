@@ -47,7 +47,7 @@ index_with_subtitle: false
 # When running the site in a subdirectory (e.g. domain.tld/blog), remove the leading slash (/archives -> archives)
 menu:
   home: /
-  categories: /categories  
+# categories: /categories  
   tags: /tags
   archives: /archives
   about: /about
@@ -67,7 +67,7 @@ menu_icons:
   #KeyMapsToMenuItemKey: NameOfTheIconFromFontAwesome
   home: home
   about: user
-  categories: th
+# categories: th
   schedule: calendar
   tags: tags
   archives: archive
@@ -82,9 +82,9 @@ menu_icons:
 
 # scheme: Muse
 
-# scheme: Mist
+scheme: Mist
 
-scheme: Pisces
+# scheme: Pisces
 
 
 # ---------------------------------------------------------------
@@ -147,9 +147,9 @@ font:
 social:
 
   Github: https://github.com/wolfydw
-  Twitter: https://twitter.com/wolfydw666
+#  Twitter: https://twitter.com/wolfydw666
   Telegram: http://t.me/wolfydw
-  Email: wolfydw@gmail.com
+  Email: mailto:wolfydw@gmail.com
 
 # LinkLabel: Link
 
@@ -170,7 +170,7 @@ social_icons:
 # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
 
   Github: github
-  Twitter: twitter
+#  Twitter: twitter
   Telegram: telegram
   Email: envelope
 
