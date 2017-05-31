@@ -86,10 +86,14 @@ algolia:
   adminApiKey: '11b7e486723451a05fd54f391b7a68aa'
   indexName: 'wolfydw'
   chunkSize: 5000
+  
+plugin:
+- hexo-generator-feed
+
 # 设置RSS
 feed:
-  type:rss2
-  path:rss2.xml
-  limit:5
-  hub:
-  content:'true'
+  type: rss2
+  path: rss2.xml
+  limit: 0
+  hub: 
+  content: true
