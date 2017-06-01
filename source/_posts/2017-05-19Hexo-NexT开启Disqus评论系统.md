@@ -1,13 +1,14 @@
 ---
 title: Hexo-NexT开启Disqus评论系统
-data: 2017-05-19
-updated: 
 comments: ture
 category:
-- hexo
-- next
+  - hexo
+  - next
 tag:
-- hexo
+  - hexo
+abbrlink: 4c30fb3d
+data: 2017-05-19 00:00:00
+updated:
 ---
 
 
